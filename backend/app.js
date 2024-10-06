@@ -1,6 +1,4 @@
 require("dotenv").config();
-console.log(process.env) // remove this after you've confirmed it is working
-
 var http = require("http"),
   path = require("path"),
   methods = require("methods"),
